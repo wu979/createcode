@@ -1,4 +1,4 @@
-package com.hd.createcode;
+package com.wsw.createcode;
 
 import org.mybatis.generator.api.IntrospectedColumn;
 import org.mybatis.generator.api.IntrospectedTable;
